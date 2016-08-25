@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark</title>
+    <link>localhost:1313/</link>
+    <description>Recent content on Mark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2016 18:50:20 -0400</lastBuildDate>
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intro</title>
+      <link>localhost:1313/</link>
+      <pubDate>Tue, 23 Aug 2016 18:50:20 -0400</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description>
+
+&lt;p&gt;Hey there, I&amp;rsquo;m Mark. I&amp;rsquo;m a developer, trader, and entrepenuer.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-do-i-do&#34;&gt;What Do I Do?&lt;/h2&gt;
+
+&lt;p&gt;Currently, I&amp;rsquo;m a web developer at ASI, but we wear many hats. I also build trading systems and strategies in NodeJS and Python. You can check out my other projects in the Projects page.&lt;/p&gt;
+
+&lt;h2 id=&#34;who-is-this-guy&#34;&gt;Who Is This Guy?&lt;/h2&gt;
+
+&lt;p&gt;I want to be the best like no one ever was. Maybe I&amp;rsquo;ll change the world, but I&amp;rsquo;ll settle for doing something meaningful.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-else&#34;&gt;What Else?&lt;/h2&gt;
+
+&lt;p&gt;I love beer (responsibly). Both Grand Rapids and Tampa have had amazing breweries and I love trying them all. I play bass and guitar, but I&amp;rsquo;m not in a band (yet). I&amp;rsquo;m a gamer and proud. My nerding abilities are off the charts. Fantasy Football Champion 2014 &amp;amp; 2015. Time&amp;rsquo;s Person of the Year 2006.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>localhost:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Innovative Developer&lt;/strong&gt; with a record of success and ambition. Looking to change the world and build cool things.&lt;/p&gt;
+
+&lt;p&gt;Located in the Tampa Bay Area&lt;/p&gt;
+
+&lt;p&gt;barta.mark@gmail.com&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Web Dev&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Programming&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;IT&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Javascript&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;C#&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IIS Admin&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;EmberJS&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Python&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SQL Server Admin&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;HTML/CSS&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;VBA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;QlikView Admin&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;QlikView&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;SQL&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ubuntu and Debian&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;NodeJS&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;work-experience&#34;&gt;&lt;strong&gt;Work Experience&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;American Strategic Insurance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Lead Application Developer       2015-Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developed and maintained internal applications to increase business                                 efficiency.  Ranging from desktop applications in C# to web applications in EmberJS.&lt;/li&gt;
+&lt;li&gt;Developed AGILE development workflow and implemented CI/CD using Jenkins, JIRA, and TFS.&lt;/li&gt;
+&lt;li&gt;Regularly communicated with stake holders throughout the SDLC.&lt;/li&gt;
+&lt;li&gt;Mentored and trained team members.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Business Intelligence Developer        2014-2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developed Dashboards and other BI tools within QlikView to satisfy business reporting requirements.&lt;/li&gt;
+&lt;li&gt;Provided custom development of charts and functionality.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;SQL Server DBA        2014&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Soley responsible for MS SQL 2012 server.&lt;/li&gt;
+&lt;li&gt;Assisted in troubleshooting SQL code and procedures.&lt;/li&gt;
+&lt;li&gt;Monitored server performance.&lt;/li&gt;
+&lt;li&gt;Improved backup and replication time by over 60%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Business Analyst        2013-2014&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developed MS Excel reports using VBA and SQL.&lt;/li&gt;
+&lt;li&gt;Developed custom MS Access databases and processes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Private&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Equities Trader        2010-2013&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maximized PnL utilizing multiple strategies&lt;/li&gt;
+&lt;li&gt;Read and analyzed press releases, earning reports, and economic reports.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;University of Tampa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Masters in Finance        2013&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grand Valley State University&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bachelors in Finance       2009&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monthly Readers Club</title>
+      <link>localhost:1313/</link>
+      <pubDate>Tue, 23 Aug 2016 18:21:23 -0400</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NPO - Untitled</title>
+      <link>localhost:1313/</link>
+      <pubDate>Tue, 23 Aug 2016 20:38:28 -0400</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Journal</title>
+      <link>localhost:1313/</link>
+      <pubDate>Tue, 23 Aug 2016 20:44:35 -0400</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

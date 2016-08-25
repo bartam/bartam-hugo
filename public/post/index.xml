@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mark</title>
+    <link>localhost:1313/</link>
+    <description>Recent content in Posts on Mark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2016 18:50:20 -0400</lastBuildDate>
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intro</title>
+      <link>localhost:1313/</link>
+      <pubDate>Tue, 23 Aug 2016 18:50:20 -0400</pubDate>
+      
+      <guid>localhost:1313/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
